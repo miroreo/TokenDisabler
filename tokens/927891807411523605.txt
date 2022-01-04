@@ -1,0 +1,12 @@
+Hey there, this file was created automatically because a bot found your token in public. By creating this file, the Discord bots will immediately reset the token.
+Hopefully, we caught it in time to make sure that you weren't compromised.
+This is a dangerous thing to leak, as your bot can be controlled by anyone if they have the token! Please keep your token safe. 
+Reporter: Token Scanner Bot (replit/@RoBlockHead)
+Time Detected: %!s(func() string=0x6e1d10)
+
+NDYyOTc0NjI2MjY4NzA4ODY0.DhpqOA.RLX6roNCQiWEC_0XqImtKB4FM50
+NDYyOTc0NjI4OTE1MDUyNTQ0.DhpqOQ.FfwNfPjhpVJRRTU6Ur5NWkbHe1g
+NDYyOTc0NjMwODMxOTgwNTQ0.DhpqOg.073h6ITBfwu753Z0K4lj6uaVemA
+NDYyOTc0NjQ2MjY3MDE5MjY1.DhpqPQ.2oxIZmcbG6RSZAQZp_-JI4GdLI4
+NDYyOTc0NjkwNTk2NDg3MTY4.DhpqSA.uBz3yLoTXk1KaN2t5Ojy6d3kwA4
+NDYyOTc0NzUwMjMxMzYzNTg0.DhpqVg.Dj03Ki-y80zMNlRrFBRIWepVFSE
